@@ -3,8 +3,8 @@ Contributors: wp.insider, affmngr, ElementGreen
 Donate link: https://wpaffiliatemanager.com/
 Tags: affiliate, affiliate marketing, affiliates, affiliate program, woocommerce
 Requires at least: 3.5
-Tested up to: 6.6
-Stable tag: 2.9.38
+Tested up to: 6.7
+Stable tag: 2.9.39
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -193,6 +193,9 @@ View screenshots in the following page:
 https://wpaffiliatemanager.com/screen-shots/
 
 == Changelog ==
+
+= 2.9.39 =
+- fixed a PHP notice related to Function _load_textdomain_just_in_time call.
 
 = 2.9.38 =
 - WooCommerce integration updated.
